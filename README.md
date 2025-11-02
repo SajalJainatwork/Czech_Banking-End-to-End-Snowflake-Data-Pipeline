@@ -1,6 +1,8 @@
 # 🏦 End-to-End Snowflake Data Pipeline: Czech Banking Project  
 **Enterprise-Scale Cloud Data Engineering & Automation**
 
+Enterprise-Scale Snowflake Data Warehouse Automation for Czech Banking Analytics
+
 ![Snowflake](https://img.shields.io/badge/Snowflake-Cloud%20Data%20Platform-blue)  
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-Connected-green)  
 ![SQL](https://img.shields.io/badge/SQL-Fully%20Automated-orange)  
