@@ -1,5 +1,8 @@
 ![czech](https://github.com/user-attachments/assets/d874ee78-5274-42ad-a657-210a99d2c484)
 
+![OIP](https://github.com/user-attachments/assets/d358793e-ad9f-4879-a6fb-227fc6ababec)
+
+
 # 🏦 End-to-End Snowflake Data Pipeline: Czech Banking Project  
 **Enterprise-Scale Cloud Data Engineering & Automation**
 
