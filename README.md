@@ -1,7 +1,4 @@
 ![cz](https://github.com/user-attachments/assets/7edb22c8-8d86-42ec-a21a-bd53e1dfd8f5)
-![ceska](https://github.com/user-attachments/assets/0167afc2-7097-4ab2-ad49-7493812a330d)
-
-
 
 # 🏦 End-to-End Snowflake Data Pipeline: Czech Banking Project  
 **Enterprise-Scale Cloud Data Engineering & Automation**
